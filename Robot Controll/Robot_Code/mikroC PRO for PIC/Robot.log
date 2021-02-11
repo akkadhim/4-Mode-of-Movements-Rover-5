@@ -1,0 +1,19 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F87J50 -DL -O11111114 -fo48 -N"D:\programming&CCt Design\Microcontroller\Projects\Mikromedia\Screen\Robot_Code\mikroC PRO for PIC\Robot.mcppi" -SP"C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"D:\programming&CCt Design\Microcontroller\Projects\Mikromedia\Screen\Robot_Code\mikroC PRO for PIC\" -SP"D:\programming&CCt Design\Microcontroller\Projects\Mikromedia\Joystick\" -IP"D:\programming&CCt Design\Microcontroller\Projects\Mikromedia\Screen\Robot_Code\mikroC PRO for PIC\" "Robot_main.c" "Robot_events_code.c" "Robot_driver.c" "Robot_resources.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_ADC_87J50.mcl" "__Lib_UART_c67g12.mcl" "__Lib_TFT.mcl" "__Lib_TFT_Defs.mcl" "__Lib_TouchPanel_TFT.mcl"	 
+hint: 0	1139	Available RAM: 3883 [bytes], Available ROM: 131064 [bytes]	 
+diagnostics: 0	126	All files Preprocessed in 671 ms	 
+diagnostics: 0	122	Compilation Started	robot_objects.h
+diagnostics: 49	123	Compiled Successfully	Robot_main.c
+diagnostics: 0	122	Compilation Started	robot_objects.h
+diagnostics: 280	123	Compiled Successfully	Robot_events_code.c
+diagnostics: 0	122	Compilation Started	robot_objects.h
+warning: 639	1509	Generated baud rate is 115385 bps (error = 0.16 percent)	Robot_driver.c
+diagnostics: 662	123	Compiled Successfully	Robot_driver.c
+diagnostics: 0	122	Compilation Started	Robot_resources.c
+diagnostics: 200	123	Compiled Successfully	Robot_resources.c
+diagnostics: 0	127	All files Compiled in 843 ms	 
+hint: 0	1144	Used RAM (bytes): 2071 (53%)  Free RAM (bytes): 1812 (47%)	Used RAM (bytes): 2071 (53%)  Free RAM (bytes): 1812 (47%)
+hint: 0	1144	Used ROM (bytes): 35510 (27%)  Free ROM (bytes): 95554 (73%)	Used ROM (bytes): 35510 (27%)  Free ROM (bytes): 95554 (73%)
+diagnostics: 0	125	Project Linked Successfully	Robot.mcppi
+diagnostics: 0	128	Linked in 390 ms	 
+diagnostics: 0	129	Project 'Robot.mcppi' completed: 1982 ms	 
+diagnostics: 0	103	Finished successfully: 17 ﬂ«‰Ê‰†«·À«‰Ì 2014, 14:53:21	Robot.mcppi
